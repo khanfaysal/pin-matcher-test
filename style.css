@@ -18,8 +18,8 @@ body {
 .generate-btn{
     margin-top: 124px;
     width: 180px;
-    padding: 50px;
-    border-radius: 50%;
+    padding: 20px;
+    border-radius: 5%;
     border: 8px solid #FF7F50;
     background-color: #3D4153;
     /* background-color: #495BC3; */
